@@ -1,0 +1,3 @@
+type,challan_number,vehicle_number,violation_date,amount,offence_description,payment_status
+echallan,CH98765432,CG10XY4321,15-03-2026,1000 INR,Over Speeding,Unpaid
+echallan,CH98765432,CG10XY4321,15-03-2026,1000 INR,Over Speeding,Unpaid
