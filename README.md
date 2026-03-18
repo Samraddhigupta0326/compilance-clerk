@@ -75,8 +75,4 @@ python main.py
 * OCR is used when text is not directly extractable from PDFs.
 * A rule-based extraction approach is used as a fallback due to API limitations.
 
----
 
-## Author
-
-Your Name
